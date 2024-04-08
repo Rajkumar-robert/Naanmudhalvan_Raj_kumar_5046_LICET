@@ -20,7 +20,7 @@ This is a simple music player web application built using Django framework. It a
 - Responsive design for mobile and desktop devices
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Rajkumar-robert/music-player.git`
+1. Clone the repository: `git clone https://github.com/Rajkumar-robert/Naanmudhalvan_Raj_kumar_5046_LICET`
 2. Navigate to the project directory: `cd music-player`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the development server: `python manage.py runserver`
