@@ -1,4 +1,4 @@
-# Music Player
+# Music web app using Django framework
 
 ## Overview
 This is a simple music player web application built using Django framework. It allows users to discover, listen, and enjoy their favorite music tracks. The application provides features such as searching for songs, creating playlists, and controlling playback.
